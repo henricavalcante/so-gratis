@@ -1,7 +1,7 @@
 # Como contribuir
-Fork it!
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request :D
-Don't edit files under dist folder, those are generated after running grunt command, edit files under src folder instead.
+
+1. Fork no repositório
+2. Crie uma branch: git checkout -b minha-branch
+3. Commit nas alterações: git commit -m 'Novos links adicionados'
+4. Dê um push para a branch: git push origin minha-branch
+5. Nos envie um pull request
