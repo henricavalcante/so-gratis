@@ -232,6 +232,14 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 
 [GrowthHackers](https://growthhackers.com/) - Possibilitando o crescimento. Juntos.
 
+### K. SERVIÇOS DE EMAIL
+
+[Gmail](http://gmail.com/) - Serviço de emails do google (deixou de ser gratuito para domínios.)
+
+[Zoho](http://www.zoho.com) - Serviços de email gratuito para seu dominio e outras ferramentas para a gestão do negócio.
+
+[Bitrix24](https://www.bitrix24.com/) - Gratuito para até 12 usuários em seu domínio  e outras ferramentas para a gestão do negócio.
+
 ## → Design + Código ←
 
 ### A. RECURSOS DE DESIGN GRATUITOS
