@@ -58,8 +58,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 [ZenPen](http://www.zenpen.io/) - Um processador de texto mínimo na web.
 
 [Liberio](http://liber.io/) - Criação e publicação de ebooks, direto do Google Drive.
-[(https://wordpress.org/plugins/editorial-calendar/)rel="nofollow">]
-**Editorial Calendar:** - Veja todos seus posts. Arraste e solte para organizar o seu blog.
+
+[Editorial Calendar](https://wordpress.org/plugins/editorial-calendar/)- Veja todos seus posts. Arraste e solte para organizar o seu blog.
 
 [Story Wars](https://www.storywars.net/) - Escreva histórias coletivamente.
 
@@ -73,8 +73,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 ### D. IDEIAS E TENDÊNCIAS DE CONTEÚDO
 
 [Portent](http://www.portent.com/tools/title-maker) - Gerador de ideias de conteúdo (em inglês).
-[(http://www.google.com/trends/hottrends/visualize?pn=p1)rel="nofollow">]
-**Google Trends:** - Uma nova forma de mostrar termos mais buscados.
+
+[Google Trends](http://www.google.com/trends/hottrends/visualize?pn=p1) - Uma nova forma de mostrar termos mais buscados.
 
 [Buzzsumo](http://buzzsumo.com/) - Analize qual conteúdo funciona melhor (em inglês).
 
@@ -187,8 +187,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 [MyTweetLinks](http://mytweetlinks.com/) - Aumenta o tráfego no Twitter.
 
 [Latergram](http://www.latergram.me/) - Faça o planejamento e o agendamento dos seus posts no Instagram com facilidade.
-[(https://wordpress.org/plugins/pinterest-pin-it-button-for-images/)anchor" rel="nofollow">]
-**Wordpress Pin it Button for Images:** - Adicione um botão “Pin It”.
+
+[Wordpress Pin it Button for Images](https://wordpress.org/plugins/pinterest-pin-it-button-for-images/) - Adicione um botão “Pin It”.
 
 [SharedCount](http://www.sharedcount.com/) - Rastreamento dos compartilhamentos, curtidas, tweets e outras métricas de um URL.
 
@@ -213,8 +213,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 [Addthis](http://www.addthis.com/) - Consiga mais compartilhamentos, seguidores e conversões.
 
 [Sumome Share](https://sumome.com/app/share) - Otimiza automaticamente seus botões de compartilhamento para atingir o máximo de tráfego.
-[(https://wordpress.org/plugins/digg-digg/installation/)rel="nofollow">]
-**Digg Digg:** - Plugin para todos seus botões de compartilhamento.
+
+[Digg Digg](https://wordpress.org/plugins/digg-digg/installation/) - Plugin para todos seus botões de compartilhamento.
 
 [Disqus](https://disqus.com/) - Construa uma comunidade de leitores e comentaristas ativos.
 
@@ -257,8 +257,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 [Marvel](https://marvelapp.com/resources/) - Recursos gratuitos dos designers que amamos.
 
 [UI Space](http://uispace.net/) - Freebies de alta qualidade feitos à mão por pessoas geniais.
-[(http://www.pixeden.com/free-design-web-resources)rel="nofollow">]
-**Free Section of Pixeden:** - Recursos gratuitos de design.
+
+[Free Section of Pixeden](http://www.pixeden.com/free-design-web-resources) - Recursos gratuitos de design.
 
 [Free Section of Creative Market](https://creativemarket.com/free-goods) - Um novo freebie toda segunda-feira.
 
@@ -662,6 +662,6 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 
 Para que nossa lista continue sempre atualizada:
 
-Acesse [contribuicoes.md]
+Acesse (contribuicoes.md)
 
 
