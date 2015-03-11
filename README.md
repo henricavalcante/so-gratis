@@ -662,6 +662,6 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 
 Para que nossa lista continue sempre atualizada:
 
-Acesse (contribuicoes.md)
+Acesse [Como contribuir](contribuir.md)
 
 
