@@ -69,6 +69,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 
 [Social Locker](https://wordpress.org/plugins/social-locker/) - Peça aos visitantes para “pagar” pelo seu conteúdo com um tweet, etc.
  - um timer e salve nos favoritos para usar novamente.
+ 
+[DocPad](https://docpad.org/) - Criação de conteúdo colaborativo para a web.
 
 ### D. IDEIAS E TENDÊNCIAS DE CONTEÚDO
 
