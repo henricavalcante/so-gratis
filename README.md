@@ -72,6 +72,10 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
  
 [DocPad](https://docpad.org/) - Criação de conteúdo colaborativo para a web.
 
+[disqus](https://disqus.com/) - Comentários para seu website/blog, uma ótima alternativa ao facebook comments.
+
+[gravatar](http://en.gravatar.com/) - Avatar em seu app.
+
 ### D. IDEIAS E TENDÊNCIAS DE CONTEÚDO
 
 [Portent](http://www.portent.com/tools/title-maker) - Gerador de ideias de conteúdo (em inglês).
