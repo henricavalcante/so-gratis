@@ -31,6 +31,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 
 [Slimvoice](http://slimvoice.co/) - Invoices absurdamente simples.
 
+[BMFiddle](https://bmfiddle.com/) - Ferramenta de Business Model Canvas grátis.
+
 ### B. GERADORES DE NOMES PARA NEGÓCIOS E PROJETOS
 
 [The Name App](http://thenameapp.com/) - Encontre um nome disponível para sua brilhante ideia.
