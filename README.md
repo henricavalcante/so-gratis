@@ -578,6 +578,8 @@ Uma coleção de ferramentas grátis para iniciar sua StartUp
 
 [Markticle](https://markticle.com/) - Marque o progresso da sua leitura de artigos para continuar mais tarde.
 
+[wakatime](https://wakatime.com/) - Gerencie seu tempo enquanto está escrevendo linhas de código.
+
 ### D. NÔMADES DIGITAIS e TRABALHO À DISTÂNCIA
 
 [Nomadlist](http://nomadli.st) - As melhores cidades para viver e trabalhar remotamente.
